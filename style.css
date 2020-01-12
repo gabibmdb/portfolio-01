@@ -1,0 +1,51 @@
+body {
+    background-image: url("images/PATTERN_02.jpg");
+    background-repeat: repeat;
+    background-size: 300px;
+    
+    
+    
+}
+
+.conteudo {
+    width: 50%;
+    height: 22em;
+    margin: auto;
+    padding:20px;
+    margin-top: 200px;
+    background-color: rgba(255, 255, 255, 0.7);
+    
+}
+
+
+
+.avatar {
+    border-radius: 50%;
+    width: 220px;
+    padding:10px;
+    margin-right: 20px;
+    float:right;
+    
+}
+
+
+.conteudoEsq {
+    width: 35%;
+    margin: auto;
+    float: left;
+    padding:20px;
+   
+}
+.conteudoDir {
+    padding:20px;
+    width: 65%;
+    margin: auto;
+    float: right;
+    
+}
+
+.divisor {
+    color: #fd8585;
+}
+
+

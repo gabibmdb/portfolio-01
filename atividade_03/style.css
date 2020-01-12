@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.accordion {
+    background-color: grey;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 200px;
+    margin: auto;
+}
+
+
+.formulario {
+    width: 30%;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.formulario2 {
+    width: 70%;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.formulario2_a {
+    width: 35%;
+    margin: auto;
+    float: left;
+}
+.formulario2_b {
+    padding-left: 20px;
+    width: 65%;
+    margin: auto;
+    float: right;
+}
+
+.asc{
+    width:48%;
+    float:left;
+}
+.desc{
+    width:48%;
+    float:right;
+}
+
+
+
+.envelope {
+    width: 40%;
+    height: 500px;
+    margin: auto;
+    display: block;
+    border: 10px solid blue;
+}
+
+.logout {
+    margin-top: 20px;
+}
+
+#logoutButton {
+    margin: auto;
+    float: center;
+    width: 30px;
+}

@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.accordion {
+    background-color: grey;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 200px;
+    margin: auto;
+}
+
+
+.formulario {
+    width: 30%;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.envelope {
+    width: 40%;
+    height: 500px;
+    margin: auto;
+    display: block;
+    border: 10px solid blue;
+}
+
+.superior1 {
+    width:40%;
+    background: chartreuse;
+    height: 300px;
+    display: flexbox;
+    float: left;
+}
+
+.superior2 {
+    width: 60%;
+    background: burlywood;
+    height: 300px;
+    display: flexbox;
+    float: right;
+
+}
+
+.inferior {
+    width: 100%;
+    background: lightcoral;
+    height: 200px;
+    display: flexbox;
+    float: center;
+
+}
